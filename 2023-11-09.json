@@ -1,0 +1,26 @@
+{
+  "name": "Ryan Poole",
+  "age": 37,
+  "address": {
+    "street": "Bugfes Mill",
+    "city": "Okapiziw",
+    "state": "MN",
+    "zip": "83637"
+  },
+  "contact": {
+    "phone": "(709) 639-4595",
+    "servicePhone": "800288282"
+  },
+  "birthday": "1968-10-15T01:25:14.890Z",
+  "ip": "243.85.103.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Bi cofaggi mar ofitahe hicsadji zuhze danvetle pi tuk oz fuktir vef buj viavnor viabkuw awipas ri vuk. Jolobe zarozvi zen covhispun difcihfug bapif bupfiif faifu an nacnaho esi wuv gipivme nupfather balupug cujofnu tiapte. Ra hu dinud dumpuzmo kedezko nemiru apnom imlih he avuim vijabfe jaczu kona.",
+    "bio": "Rabucoh marcibbow wu umedarger lejjosuza luz dokjav zawmap tez nahoptam rucuv koaz okuav tu cukhizefu tohrus pernotom cif. Zafogpe repijifu uge civuwil pa seakosa na woz witesor awidroc ugimeimo ofmu vuho cas. Pesama venhiv tu zeca donal nas bawil bi nuk cahi poco ka udeikzof dilrah weife siwe."
+  },
+  "apiKey": "b87e1a11b0f5cfbe6a1efb38ab5a51da6f1c4725f452cd8a9afddf05e6b83d59",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
