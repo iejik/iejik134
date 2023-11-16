@@ -1,0 +1,26 @@
+{
+  "name": "Emma Stokes",
+  "age": 57,
+  "address": {
+    "street": "Ruwo Turnpike",
+    "city": "Sopukeobu",
+    "state": "NY",
+    "zip": "55284"
+  },
+  "contact": {
+    "phone": "(583) 568-3507",
+    "servicePhone": "800361776"
+  },
+  "birthday": "1984-03-15T02:28:35.915Z",
+  "ip": "178.84.126.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Tefi mu couti hehuseh dezecgo afkamip coziwni div luk ihoja mazo zinoc puludide vutu ijuobium rivig seh aja. Icodagik dam cozzuaf ceiflu opogo jedbiv adwigow mitob callu wac no litagef nuzhu zaszanlo. Zidaari jig nisegeba sarmazimi uliudi hehjit nuelofe is ku ewuceha zite abehapir ditanac vaniogu racrup tidkoswu.",
+    "bio": "Moszubkus rawudawo wolodur sira poer hacezin abdeklez lepocap solebov sofhu tisirzah nilo timmugo. Ornujlo etoheca pajol odetab sidevugan bugfo jarruwsip pa tanewu ebeneepa ab kohcum buh ji lileca alado soega. Ju rov kontu ej piwonin se ivmi eguifne kego ikelosud bizwuep icteh."
+  },
+  "apiKey": "3b7992b0be1ef2718b85d774d1c4b3377a6c6935508859e1d5d3e2f4c12b8af5",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
