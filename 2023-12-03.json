@@ -1,0 +1,26 @@
+{
+  "name": "Phillip Burton",
+  "age": 64,
+  "address": {
+    "street": "Cilvu Key",
+    "city": "Nehvakni",
+    "state": "AL",
+    "zip": "08897"
+  },
+  "contact": {
+    "phone": "(864) 416-1970",
+    "servicePhone": "800751434"
+  },
+  "birthday": "1975-10-03T07:57:24.177Z",
+  "ip": "63.238.0.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Aniuroaw ucseluj dah fuleg cel foiceti mufdidus orneg unwoj osok belemsuh zijot pine defem giohe. Vefkojo homej usrop isu ke hif enole heradse jihodmo zirjepgo oso juteji isewoce luk fapeh. Ge ut runmu zoetazas rersoiwo wugovafuh uhoel pos hijcaza uw ajutud da did.",
+    "bio": "Ve odero fag remomfu mu funid wawhobuw dacob der olzavje dom fobahwu hi hupazas wewi pihla lemijawal. Ajkobu edgo jinmi logbapdu gubibmud howefhe nevsewuk hapliek gurugusi toew iponakini aj. Fen opkosehu uzse saoj ce imuwaedi rupiv obi zitpibek amwu zezofotal dahi dek wu owe jusapi zusur."
+  },
+  "apiKey": "86b2d4b62135cf7dc1e12b8db6da9cbc11250b908cd99bcde513bc59f7d2044d",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
