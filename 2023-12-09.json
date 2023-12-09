@@ -1,0 +1,26 @@
+{
+  "name": "Harriett Schultz",
+  "age": 35,
+  "address": {
+    "street": "Eruted Path",
+    "city": "Jalvavre",
+    "state": "AZ",
+    "zip": "38126"
+  },
+  "contact": {
+    "phone": "(457) 484-7146",
+    "servicePhone": "800191544"
+  },
+  "birthday": "2001-10-09T23:35:43.998Z",
+  "ip": "53.48.243.186",
+  "foo": "bar",
+  "profile": {
+    "about": "Fi wim utujen wep we ceiw nog fi ago sejov cijon sokce di voce. Ge jiv ni pevohi hi kedezo jaw zivja ikojoaru vat kehal curjeno vegwojfus mubpefid ep hi ejo ape. Nenpa cag mewabbu vonihaf car ne mujcel hanat tizpulto hasoc zawgodvuc secge da vadigi pudo enepusag ulja wuhhe.",
+    "bio": "Fo elnegno convira woem bafjow mujub adawapli eji febihwut wembuw opjugu kad. Peepofeg rebso tid gof juvidmuv kakla ruz vi hobzu opilije pu ujumasdu. Vupeun uhwande ponej sinuvo pamkot zalisu ojjava gid hofu kupmira mupar mov. Paze esfu datuke ida gume fule irowi nirbiw gamlavogu gav oh mu vup duw iwiacamod banic ninsi we. Is ehca gel mut tu govmeuc mazobo okakul aro zefiwi veehece fov coce wavbuhpa edvugli mepti git. Kes datu ro la weco kam lilelu siftilmen keragago to pewe ohi kikuf kujdo zo me iwodiwwol ebda. Pe ekoozopig vawhan lo tuzum pe umiac ho jurkijsuw tov pa meptecjaj dapwuri opuruw dodwo kowijuufe hikuwwip."
+  },
+  "apiKey": "86841f50e3769180202cf208a41605d2a4b895ca3420455c08406189d3de93e1",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
