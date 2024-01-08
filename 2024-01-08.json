@@ -1,0 +1,26 @@
+{
+  "name": "Evan Martin",
+  "age": 43,
+  "address": {
+    "street": "Liheb Glen",
+    "city": "Bijadov",
+    "state": "MD",
+    "zip": "14419"
+  },
+  "contact": {
+    "phone": "(626) 602-7801",
+    "servicePhone": "800282147"
+  },
+  "birthday": "1966-10-11T21:32:49.849Z",
+  "ip": "28.123.27.78",
+  "foo": "bar",
+  "profile": {
+    "about": "Rizuvzek hezvos inohom ga jo gofezoce ta giopu aji ju puma izfugfap epito cov. Iw juwugiebo loh roliire hubis je juh cos cajfeg dodiefe rar roskeppi ub. Meje lakmeb huufuhov cejimwe vek gerrefo ev kijedes tum cab ke ut ulu ban fukomon. Fo sip ozut gaewkaw von hu sojokhuf oki zijzeof di gezoz wokgojo.",
+    "bio": "Iskeoj paaza rozherip ki in widcuvif nufhu ameojame sige buh mepe fe nuweezi zuvoti hoved ukojavje bonjevuri failu. Diezma leju eno udadasi pavefru jerpipjir vu fujijoko hiludag mecja majdifjat wufcu nersuoz veb mukseet. Ju punnivo irarebtif uncazda pijejomal pu vakken wetefzaw me zo fenwareb pag budi hetuv luwcudef loshu gol em. Viztam zikilraw hagrap sipgar vav hug cop seda fu ip kanozcus asup nicla. Zef gebotes wuulfi ne jeurigov niwiano duhi nenul imfoza gop vota es kohku inigajeg. Li adiduj bitubdo ur pobamu zawgul poeju pajalso ap obamiji hulwahji honpiv kifna."
+  },
+  "apiKey": "947da98f0b1ef6947b17d6937c8a0d814d3f1f7035b280b6e3b39ed16242c867",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
