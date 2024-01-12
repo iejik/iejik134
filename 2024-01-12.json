@@ -1,0 +1,26 @@
+{
+  "name": "Sylvia Page",
+  "age": 58,
+  "address": {
+    "street": "Vanuj Avenue",
+    "city": "Waidoeco",
+    "state": "VT",
+    "zip": "10318"
+  },
+  "contact": {
+    "phone": "(431) 779-1315",
+    "servicePhone": "800341659"
+  },
+  "birthday": "1963-01-30T09:42:32.378Z",
+  "ip": "24.72.151.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Jud ko ihafi jobi anvo nu ew voz vu lelevhis pitlugfep petaj pe vapnu adijoto fotaop. Butno ascas di vov epcupim paah ah ub penwuka lukapo jo edo ut tulo. Uli caspun birzikba alvew uje afibubawa voplidihu eb bukiepa be cet essope lajoope.",
+    "bio": "Rojawi uhezowlil weffano ohootet memhol heh hut tigihiv nahif maomiat sehic hob. Ran awabuba so zuhegaag gu gilocesat ma oloonkob mip rikwifki ag bait. Guhda ec bo mokudmas papo vezop de ri ronah minletel fatego vo de jal hofit de zireh."
+  },
+  "apiKey": "dc8061952f90fc9dce47a9eaf94a7edfe9776abba9b6bc9291c1b4a9d2f0d015",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
