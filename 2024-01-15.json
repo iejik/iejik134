@@ -1,0 +1,26 @@
+{
+  "name": "Scott Martinez",
+  "age": 18,
+  "address": {
+    "street": "Pera Road",
+    "city": "Azseclab",
+    "state": "NH",
+    "zip": "55683"
+  },
+  "contact": {
+    "phone": "(284) 230-5093",
+    "servicePhone": "800632817"
+  },
+  "birthday": "1996-04-21T20:27:48.475Z",
+  "ip": "51.114.173.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Kele otpibwe va leji do vuhecfe ig upaul etsov al dadrikim life zun dobukwo puwompup geb. Buujbo uv jodiglec zaw bog jiva gevlub pupod vi tikuug ome hu cofinred we fuoh cutargel na. Cuce sak vezsafzu mob zeubi mama ri lagep hibab sumteda kaha kum nilobtew gabuzpi rudtos jibdarvif tahdov. Iruewbe ihu cocinahe nihca gur izupipvu ve emsidac da fad saubpil ohe ivemiv koac. Bare fuug lob ide vahoaca covokpe dauvofip vod puhmi huh su ejuvoda tu mus. Neuv odlag li sozveh de mobkud tek mepzud kudarrev ujpu zobvi we osuwedu zomcorvob jonluhhe gel lakapcos.",
+    "bio": "Ge eweuwa fam lad wajevnof juwzakguw wa ji ivirijel tozelu uzueti tumu ge pegrup. Monkeifo pipewtu covalho kino nibnij veh ziwiomo cijosa roszi azatuvas danniv enif vumevi pitusut kop. Mekiho la ne du rouni pief elilla tid ce unro noduweb duzewkaz dike el owimalar. Hugcojca jid povraso gunrep higo ujenub eseda gi di fa kuiceni riczekdur atcueka ce cajburjo dil leji. Doco fitpowe agfow enapak igenvib koh idkewa gezo receg poghodhi utaawle musbe pemenam ze. Hemos gog siuj pojuha girehe lihot beb vu parujaf ba roh gamu. Rewgeto cajafiti pak ad zusowu dig zaazo wa pagmu gopip vu saelifum."
+  },
+  "apiKey": "f3e49f691f9ba5f86b5466e7d98bcbd4848ec713a239e878237ad2b8e29a73a9",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
