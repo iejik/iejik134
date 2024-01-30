@@ -1,0 +1,26 @@
+{
+  "name": "Eleanor Cummings",
+  "age": 36,
+  "address": {
+    "street": "Pejla Street",
+    "city": "Duuhto",
+    "state": "WV",
+    "zip": "81359"
+  },
+  "contact": {
+    "phone": "(956) 618-5227",
+    "servicePhone": "800973846"
+  },
+  "birthday": "1966-05-16T15:04:34.410Z",
+  "ip": "205.122.105.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Wev riva ruzitcos nuhujabev veati elarovi utra punzuclum kul mi do pubi azu zawdiguc nugfeumo. Favaze emo la lug ve taes kahi no ivnac jemor ikpak govojzam woun vob zocoh ti lug su. Nasi sobkojo gojijloj ogfopuw obi leut vazjidzur ve uvkoffi at suabo duz ho ri uvutaswow ibaog cu di. Hilvu cike pisigbov nufhoug ribmiopi tijad irviv ewimelnu rakfo teefna jucofpi buwirha. Go ibsop mut nawnewaw tan fujpisofu gi cow zuhim si tazevu ar.",
+    "bio": "Gocovapu dek uj tufecor bojum gijwus ubpe ili ru louca niup filal nait zonribe wup noki akakew vi. Ugi jur him boote hajepbid ugvop pighowto mow jifcen oblef lu zokmom tehur ojolu pumijsol jo hu. Wukkit ef ji nehe murawo oneduji he to ziju lehemiw doket guz zocrozkih ratpikta nup jimaj cod. Pak nan gecja jewiapa lufuje kadu ifusuvne dafzojda ohuragar meke ije no esata kol."
+  },
+  "apiKey": "fbd41585a4ace6d741d7688b9dd81277ed665b139705eb29a3f844c66a13b204",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
