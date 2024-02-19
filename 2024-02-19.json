@@ -1,0 +1,26 @@
+{
+  "name": "Bettie Perkins",
+  "age": 51,
+  "address": {
+    "street": "Ekjow Key",
+    "city": "Hedpahma",
+    "state": "WY",
+    "zip": "72491"
+  },
+  "contact": {
+    "phone": "(961) 902-6271",
+    "servicePhone": "800298237"
+  },
+  "birthday": "1983-02-08T19:32:20.281Z",
+  "ip": "35.239.221.92",
+  "foo": "bar",
+  "profile": {
+    "about": "Wevalok cen pi hioto zum noniz femzi ocado juhfa eza jone hothopop lamaj arlore. Ow vejol acpem jijmanca hapihunuk puhgad hi va aghapevo ra puzudpoc mej sum cu torloc. Sidkeswaw ke rungo esudoc udu guzi mim tugfuc sodu futeva mipcutete mi.",
+    "bio": "Gawo obreusa ne vot fevcucgap veghi opopubhu ivfa kazjubhi jec mavobubu ni bin. Jekilu noug tubzih bides jomrikiz fejoh wutmek niscotes uk lo sotrujin san. Epsuzva majuka cibri biti cokagla gevucna omatijak voegini ti piso fo rih. Nuszob rip sud igil liaroti vejavice ifowew fadvi fen daf azatup wivnimtoj talaf."
+  },
+  "apiKey": "3c49179ba1a7d092367782ebb533366aee713e3d7909221ac71aea205ea88e89",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
