@@ -1,0 +1,26 @@
+{
+  "name": "Ora Keller",
+  "age": 42,
+  "address": {
+    "street": "Ovafe Street",
+    "city": "Gajipdi",
+    "state": "LA",
+    "zip": "24733"
+  },
+  "contact": {
+    "phone": "(780) 370-9251",
+    "servicePhone": "800573481"
+  },
+  "birthday": "1960-01-04T18:44:03.952Z",
+  "ip": "24.150.140.154",
+  "foo": "bar",
+  "profile": {
+    "about": "Zu aponodat rawima ofdu co voas basbih iri jezuseli ehe vu vevuv iripoagi ahiotabe. Hilevwi vedifhiz pobimfu birodaf biwev vid jisipi iwuh ic ut fin biilpu wab. Lefpaafo vowurfu akubocne nasfosdef revjuvza tiral lurzo foco gil pak rijuebe le.",
+    "bio": "Ludej baasafe bawej fur dosimani itu fobgidod vuwan ke mef de zupesaono epolok gagcikmas iridi. Jimiged lefohu ozo vi weef anujauk lef sel kocofuco ka cidje roro ib cu gidoctug egano. Babezzat lodikon gecovjuh vi wup gowo kakwujuji fez gugdo nofuwrun soigvo viefijak zibufles. Avuatpa naic wavednew gobuon onidaw tebnif kajnorif gomze nappoij mu fitun roflaz betime ba sa ekodi ku pohdosabo."
+  },
+  "apiKey": "86ba98c7980d76feece71fe5d7cc8e644546469f6cc0f97b6f9cf17506cb7b21",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
