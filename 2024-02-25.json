@@ -1,0 +1,26 @@
+{
+  "name": "Steven Hughes",
+  "age": 48,
+  "address": {
+    "street": "Rogvi Key",
+    "city": "Noruzupu",
+    "state": "DC",
+    "zip": "82179"
+  },
+  "contact": {
+    "phone": "(436) 822-2424",
+    "servicePhone": "800493685"
+  },
+  "birthday": "1990-01-17T06:57:08.396Z",
+  "ip": "216.205.93.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Hesdiwfib edpas as egigiz jil gu bo siloobe lefato rimava rebog weidgog labi. Da owrehup supat fa okuju zogez muuzli avipu ca wahoj fojo rim eba hog pehcod. Ce jumu la tazzu muh araurevab reseh tir idirhuv etoluwew tasod miolueri be boni. Ha biz oz uli uw divmafuz be hawilef povhi jioniluf sa huizpu.",
+    "bio": "Ze elza siz vehaet bus uh di umcisoj oneraos sibada zepviber coscaskev ma bomasiv. Vijfofku lut suc piam ji kuhut nohasi citbupoh udorep dojluane ciffir vuwe ufokisa upetamaw. Obuob efrapir ohezuje ajausi najar nuiz datrev vu overame oskucsa he we heftu pi ozwu vad."
+  },
+  "apiKey": "2f292ac45289dda0fbf986cb54fe7c90e9253f32afcd4ef4713baa24d68c506f",
+  "currency": {
+    "code": "NAD",
+    "name": "Namibia Dollar"
+  }
+}
