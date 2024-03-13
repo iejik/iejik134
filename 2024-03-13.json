@@ -1,0 +1,26 @@
+{
+  "name": "Theodore Simon",
+  "age": 25,
+  "address": {
+    "street": "Hani Way",
+    "city": "Fibemape",
+    "state": "VA",
+    "zip": "72999"
+  },
+  "contact": {
+    "phone": "(508) 641-3077",
+    "servicePhone": "800917471"
+  },
+  "birthday": "1997-03-20T05:15:15.034Z",
+  "ip": "63.90.232.184",
+  "foo": "bar",
+  "profile": {
+    "about": "Bokgi eve su bozgihvoj pem ipo cuspan aniloweb nuj vonace pem jelfelug punazu rec de tivel. Fobnapeh eruh nomeh zi pi ipze ez in rarima pako eme bacpe tus. Hobe kuubu rilloj biw uzvu perubda mu cod ufdewil mef mi bonudduz caruwus ta.",
+    "bio": "Nu buto po ifuzuru zaekwak sumwaanu rupa huata pilviv gi sok kurojeda kizu. Ko he nanfej hulpo kunujna pur zihejhu ohengov eta udda hi bemfemice vimafvag po nemo. Osbib zu vesla cav pi radla evanivwi izi zockizsuk ru nozzohzud zehton rori opo zibi enzazu mumenda."
+  },
+  "apiKey": "07484a082a164ade8f7c89b19c7d61407729c6bf93505c70c4084fbac7d259f4",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
