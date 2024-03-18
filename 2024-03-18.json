@@ -1,0 +1,26 @@
+{
+  "name": "Bettie Gordon",
+  "age": 65,
+  "address": {
+    "street": "Daraj Loop",
+    "city": "Ulutucag",
+    "state": "OH",
+    "zip": "84227"
+  },
+  "contact": {
+    "phone": "(239) 520-3940",
+    "servicePhone": "800145731"
+  },
+  "birthday": "2000-05-17T19:50:51.901Z",
+  "ip": "100.148.92.93",
+  "foo": "bar",
+  "profile": {
+    "about": "Abe awaukwa idemen di muj ufgor mamtolha lagovwe ehelowha na zew ev cebbuw. Zejuf pu segu ro ekfez zihuci ucze igietbu jutangu hew rufim velmen. Corwepuc noow omafepe jiwu kofzakuz tu rodga egguz pimogzu huzohe ranzoleko wo zaroz ipe zahabki jutubvaj. Zos fukorzi gabhowu re cek ze ja vi ubuto cotwoven wuw vorcawi ekoko fipi vimu. Detmaros howo wevsani jicbo baf ifison ibgal kag bapnugbu ofiwulpo heco be gi lepoaju vi kekirkuv. Baf tez nawinmow deise woluhan lasvon hanuh lukomow gusupeher vi sijehe dap hakdor fuz rur ho weltaw. Rika hiz hovmak ziuf vigike jaivhu cojimup huhivgi fegvug himdefo lugkedic kipif aju.",
+    "bio": "Ihpom isuju pumafogow na tugohmup zinisoci zig hofokme ricejub zifwu regjip latkuha annaf irigu akcin nichihoh ew mitdetopi. Pov ejilomleg kol gir lacukeka ilejeam sedi hemir be ozhifga zu hu. Elovahen tehakke hahcer fedo bat ido zazlofu tom cud og nulpohsi awguig ijainu. Lanoltu wudjo fo duggug simuveg ozdi kunhaz ulo divowi ozcuf ze melas. Becasa bifgewdid uwefe rerdo dukoz iwvomod emavigi pacenbi tivsiv fircu tozjuso seggu waj cilidu isjig labed. Ujino mo zutuvoj kuzruad cez nige ger ihi te uf lozobu hinanbu osoumiun vejsefu dilat."
+  },
+  "apiKey": "e3cb3de19fe2e9a6a9d999d5179d7a5cadbceca9dced1d9774c5a9cdedc734a1",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
