@@ -1,0 +1,26 @@
+{
+  "name": "Linnie Hunt",
+  "age": 27,
+  "address": {
+    "street": "Rufa Highway",
+    "city": "Timutge",
+    "state": "MN",
+    "zip": "07619"
+  },
+  "contact": {
+    "phone": "(540) 420-5505",
+    "servicePhone": "800752616"
+  },
+  "birthday": "1993-10-10T19:22:47.726Z",
+  "ip": "148.234.137.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Idfoztac suw vah fean oli tol toiw ineta ic zasnowta ri towho. Etisikow hewad pit ofwakke pur vu farhodso dugelge ro get uki utu nilwu. Al vazolro sufios rer buv ser afe rupep za obiufimun hog ciav arefed nakkuj. Pemped buig se lag lupbicgug zit keg ebasur ohmi ik woj di lebomoz rojsad. Raw zo guhjauri tubnif zis ibi fadrelbe vojtev jab nobnale ditaz ber. Rol la wigwasjoh jauti lurbaj fuchikri wovemto eboboghad caf wanopo kid uvave nep lizkukisa zo. Cuvu zula gew romwu es ulpajic cepfepic fa fod tewupniw mufivum abiotcot honitob oze wuoza mac.",
+    "bio": "Feh ujilu ecsija kotja ugiwur mekoj umje cu veszukit repvek igutigvol vifzifapa mu. Jutjofsew tudala lisizna agilowur bof owfu ahdigon ifi dimuek zur ced gat jogibeahi detufig beb. Rujal cejcuro jezami ipfa gig bufoj wup jouzafo emihibe wanavi vad somuletih ipiciwod rediik hazzihar gusibupuf modogen nisre."
+  },
+  "apiKey": "75f0eb93c3880ed8cc948686bf8e32cba133fd3dd1b206556488f459fa6493e5",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
